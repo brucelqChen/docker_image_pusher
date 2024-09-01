@@ -1,2 +1,4 @@
 gitlab/gitlab-ce
 bitnami/redis
+mysql:8.0
+wordpress
