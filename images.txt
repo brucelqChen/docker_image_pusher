@@ -3,4 +3,4 @@ bitnami/redis
 mysql:8.0
 wordpress:latest
 openjdk:17
-jenkins/jenkins:2.344
+jenkins/jenkins:2.361.4
