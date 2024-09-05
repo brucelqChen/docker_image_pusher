@@ -4,3 +4,4 @@ mysql:8.0
 wordpress:latest
 openjdk:17
 jenkins/jenkins:latest
+java:8u40-jdk
