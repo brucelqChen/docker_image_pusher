@@ -5,3 +5,4 @@ wordpress:latest
 openjdk:17
 jenkins/jenkins:latest
 openjdk:8-jdk-alpine
+java:8
