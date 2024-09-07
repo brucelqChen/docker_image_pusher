@@ -7,4 +7,5 @@ jenkins/jenkins:latest
 openjdk:8-jdk-alpine
 java:8u111-jdk
 sonarqube:8.9.6-community
+sonarqube:9.9.6-community
 postgres:latest
