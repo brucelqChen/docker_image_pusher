@@ -10,3 +10,4 @@ sonarqube:8.9.6-community
 sonarqube:9.9.6-community
 postgres:latest
 redis:6.2
+minio:latest
